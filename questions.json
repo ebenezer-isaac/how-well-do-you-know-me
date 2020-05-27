@@ -1,0 +1,73 @@
+{
+    "1": {
+        "question": "Favourite SmartPhone Brand?",
+        "a": "Apple",
+        "b": "Samsung",
+        "c": "MI",
+        "d": "One Plus"
+    }
+    ,
+    "2": {
+        "question": "Favorite Movie Genre?",
+        "a": "Action",
+        "b": "Horror",
+        "c": "Romance",
+        "d": "Thriller"
+    },
+    "3": {
+        "question": "Favorite Holiday Destination",
+        "a": "Hill Stations",
+        "b": "Beaches",
+        "c": "Country Side",
+        "d": "Historic Cities"
+    },
+    "4": {
+        "question": "Favourite Fast Food?",
+        "a": "Pizza",
+        "b": "Burger",
+        "c": "Frankie",
+        "d": "Momo"
+    },
+    "5": {
+        "question": "Favourite Vehicle?",
+        "a": "Sedan",
+        "b": "SUV",
+        "c": "Sport",
+        "d": "Multi Terrain"
+    },
+    "6": {
+        "question": "Favorite Book Genre",
+        "a": "Romance",
+        "b": "Horror",
+        "c": "Detective",
+        "d": "Motivational"
+    },
+    "7": {
+        "question": "Favourite Game Genre?",
+        "a": "Arcade",
+        "b": "Adventure",
+        "c": "Shooting",
+        "d": "Racing"
+    },
+    "8": {
+        "question": "Favourite Music Genre?",
+        "a": "Rap",
+        "b": "Heavy Metal",
+        "c": "Romance",
+        "d": "Rock"
+    },
+    "9": {
+        "question": "Favourite Fast-Food Restaurant?",
+        "a": "McDonalds",
+        "b": "KFC",
+        "c": "Burger King",
+        "d": "Subway"
+    },
+    "10": {
+        "question": "Dream-House Location?",
+        "a": "Beach",
+        "b": "Hill Side",
+        "c": "Country Side",
+        "d": "Metropolitan"
+    }
+}
